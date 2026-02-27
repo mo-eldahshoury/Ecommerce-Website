@@ -1,4 +1,5 @@
 // all Images imported from Images directory
+import product_01_image_01 from "../Images/product_01.1.jpg";
 import product_01_image_02 from "../Images/product_01.1.jpg";
 import product_01_image_03 from "../Images/product_01.3.jpg";
 
