@@ -1,5 +1,4 @@
 // all images imported from images directory
-import product_01_image_01 from "../Images/product_01.1.jpg";
 import product_01_image_02 from "../Images/product_01.1.jpg";
 import product_01_image_03 from "../Images/product_01.3.jpg";
 
@@ -28,7 +27,7 @@ const products = [
     id: "01",
     title: "Chicken Burger",
     price: 24.0,
-    image01: product_01_image_01,
+    image01: product_01_image_02,
     image02: product_01_image_02,
     image03: product_01_image_03,
     category: "Burger",
@@ -87,7 +86,7 @@ const products = [
     id: "06",
     title: "Royal Cheese Burger",
     price: 24.0,
-    image01: product_01_image_01,
+    image01: product_01_image_02,
     image02: product_01_image_02,
     image03: product_01_image_03,
     category: "Burger",
