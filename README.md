@@ -6,6 +6,7 @@ A professional, fully responsive Ecommerce platform built with **React.js** and 
 **[Check out the live site here!](https://ecommerce-site00.netlify.app/Home)**
 
 ## ✨ Key Features
+
 * **Dynamic Product Listing**: Products are fetched and displayed from a structured data model.
 * **Case-Sensitive Image Handling**: Optimized asset management for production environments.
 * **Seamless Navigation**: Implemented with React Router for a Single Page Application (SPA) feel.
