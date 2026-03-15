@@ -15,7 +15,7 @@ A professional, fully responsive Ecommerce platform built with **React.js** and 
 
 ## 🛠️ Tech Stack
 * **Frontend**: React.js, Vite
-* **Styling**: CSS / Tailwind (حسب ما استخدمت)
+* **Styling**: Tailwind
 * **Deployment**: Netlify
 
 ## 🔧 Installation & Setup
