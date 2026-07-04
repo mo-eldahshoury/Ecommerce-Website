@@ -8,7 +8,6 @@ A professional, fully responsive Ecommerce platform built with **React.js** and 
 
 
 
-
 ## ✨ Key Features
 
 * **Dynamic Product Listing**: Products are fetched and displayed from a structured data model.
