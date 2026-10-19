@@ -11,7 +11,7 @@ A professional, fully responsive Ecommerce platform built with **React.js** and 
 * **Case-Sensitive Image Handling**: Optimized asset management for production environments.
 * **Seamless Navigation**: Implemented with React Router for a Single Page Application (SPA) feel.
 * **Netlify Optimized**: Custom redirect configurations to ensure smooth page refreshes.
-* **Responsive Design**: Fully functional across all screen sizes (Mobile, Tablet, Desktop).
+* **Responsive Design**: Fully functional across all screen sizes (Mobile, Tablet, Desktop). 
 
 ## 🛠️ Tech Stack
 * **Frontend**: React.js, Vite
