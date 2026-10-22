@@ -21,6 +21,6 @@ A professional, fully responsive Ecommerce platform built with **React.js** and 
 ## 🔧 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/mo-eldahshoury/Ecommerce-Website.git](https://github.com/mo-eldahshoury/Ecommerce-Website.git)
+   git clone [https://github.com/mo-eldahshoury/Ecommerce-Website.git](https://github.com/mo-eldahshoury/Ecommerce-Website.git) 
 
    
